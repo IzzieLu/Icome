@@ -106,7 +106,7 @@ GEM
     ref (1.0.5)
     ruby-oci8 (2.1.7)
     ruby-oci8 (2.1.7-x86-mingw32)
-    sass (3.2.14)
+    sass (3.2.15)
     sass-rails (4.0.2)
       railties (>= 4.0.0, < 5.0)
       sass (>= 3.1.10)
@@ -138,7 +138,7 @@ GEM
     turbolinks (2.2.1)
       coffee-rails
     tzinfo (0.3.39)
-    uglifier (2.4.0)
+    uglifier (2.5.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     warden (1.2.3)
